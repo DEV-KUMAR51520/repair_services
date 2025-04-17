@@ -1,0 +1,12 @@
+# Node modules
+/front/node_modules
+
+# PHP config cache
+/backend/vendor
+
+# System files
+.DS_Store
+
+/front/public/ex.mp4
+
+/backend/config/Database.php
